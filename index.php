@@ -1,4 +1,3 @@
 <?php
-    require('model/database.php');
-    
+    include_once 'kernel.php';
 ?>
